@@ -1,0 +1,29 @@
+{
+  "mainFile": "practice.py", 
+  "use-tabs": false, 
+  "venv": "", 
+  "relatedProjects": [], 
+  "name": "\u5b57\u7b26\u4e32\u4e0e\u7f16\u7801", 
+  "license": "GNU General Public License v3", 
+  "url": "", 
+  "pythonPath": "", 
+  "preExecScript": "", 
+  "additional_builtins": [], 
+  "programParams": "", 
+  "indentation": 4, 
+  "PYTHONPATH": "", 
+  "supported-extensions": [
+    ".py", 
+    ".html", 
+    ".jpg", 
+    ".png", 
+    ".ui", 
+    ".css", 
+    ".json", 
+    ".js", 
+    ".ini"
+  ], 
+  "project-type": "", 
+  "postExecScript": "", 
+  "description": ""
+}
